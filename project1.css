@@ -1,0 +1,31 @@
+h1{
+    color: darkred;
+    background-image: url(http://getwallpapers.com/wallpaper/full/3/7/a/990878-large-retro-desktop-wallpaper-1920x1080-for-ios.jpg);
+    font-style: inherit;
+    text-align: center;
+
+}
+h2{
+    color: darkgreen;
+    background-color: darkgoldenrod;
+}
+h3{
+    color: darkred;
+}
+p{
+    color: darkred;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    font-style: italic;
+    background-image: url(http://getwallpapers.com/wallpaper/full/3/7/a/990878-large-retro-desktop-wallpaper-1920x1080-for-ios.jpg)
+}
+a{
+    color: inherit;
+}
+ul{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
